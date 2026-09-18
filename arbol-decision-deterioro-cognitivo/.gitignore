@@ -1,0 +1,9 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Rapp.history
+
+# macOS
+.DS_Store
