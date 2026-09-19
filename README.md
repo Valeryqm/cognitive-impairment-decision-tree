@@ -69,7 +69,7 @@ El script imprime los resultados del ajuste y las métricas en test, y guarda to
 
 ## Datos
 
-`data/data_set.sav` — *[añade aquí el origen y la licencia. Si el archivo no se puede compartir públicamente, elimínalo del repositorio e indica cómo obtenerlo.]*
+`data/data_set.sav` — *Conjunto de datos neuropsicológicos simulados con fines docentes (formato SPSS). Los perfiles de rendimiento cognitivo y las etiquetas diagnósticas fueron generados sintéticamente para modelar la progresión del deterioro, sin contener información real ni sensible de pacientes.*
 
 ## Limitaciones y próximos pasos
 
