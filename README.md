@@ -42,7 +42,6 @@ El árbol individual iguala al random forest y conserva toda su interpretabilida
 ├── R/arbol_decision.R      # análisis completo, de principio a fin
 ├── data/data_set.sav       # conjunto de datos (ver "Datos")
 ├── figures/                # gráficos generados por el script
-├── report/                 # informe completo
 └── README.md
 ```
 
